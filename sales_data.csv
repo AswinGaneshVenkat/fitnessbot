@@ -1,0 +1,16 @@
+Transaction_ID,Date,Product,Category,Quantity,Unit_Price,Total_Amount,Customer_ID,Region,Payment_Method,Discount
+T001,2023-01-15,Laptop,Electronics,1,1200.00,1200.00,C001,North,Credit Card,0.00
+T002,2023-01-16,Smartphone,Electronics,2,800.00,1600.00,C002,South,Debit Card,0.00
+T003,2023-01-17,Headphones,Electronics,3,100.00,300.00,C003,East,PayPal,0.00
+T004,2023-01-18,Tablet,Electronics,1,500.00,500.00,C004,West,Credit Card,0.00
+T005,2023-01-19,Monitor,Electronics,2,300.00,600.00,C005,North,Debit Card,0.00
+T006,2023-01-20,Keyboard,Electronics,5,50.00,250.00,C006,South,PayPal,0.00
+T007,2023-01-21,Mouse,Electronics,10,25.00,250.00,C007,East,Credit Card,0.00
+T008,2023-01-22,Printer,Electronics,1,200.00,200.00,C008,West,Debit Card,0.00
+T009,2023-01-23,Scanner,Electronics,1,150.00,150.00,C009,North,PayPal,0.00
+T010,2023-01-24,Webcam,Electronics,3,75.00,225.00,C010,South,Credit Card,0.00
+T011,2023-01-25,Speaker,Electronics,2,120.00,240.00,C011,East,Debit Card,0.00
+T012,2023-01-26,Microphone,Electronics,1,90.00,90.00,C012,West,PayPal,0.00
+T013,2023-01-27,Router,Electronics,1,80.00,80.00,C013,North,Credit Card,0.00
+T014,2023-01-28,Switch,Electronics,2,60.00,120.00,C014,South,Debit Card,0.00
+T015,2023-01-29,Cable,Electronics,20,10.00,200.00,C015,East,PayPal,0.00 

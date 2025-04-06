@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Set OpenAI API key directly
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "OPENAI_API_KEY"
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 # Debug: Print the API key (first 10 characters)
